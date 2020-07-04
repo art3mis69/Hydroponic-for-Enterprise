@@ -9,10 +9,10 @@ With the Raspberry Pi and some sensors, it is easy to measure the temperature wi
 
 As the sensors already carry (almost) everything,not many additional accessories are required. I have used this:
 
-*DHT11 humidity sensor
-*Jumper wires
-*Ethernet Cable
-*USB Power Cable
+* DHT11 humidity sensor
+* Jumper wires
+* Ethernet Cable
+* USB Power Cable
 
 ## Setup of Raspberry Pi Humidity Sensor ##
 
