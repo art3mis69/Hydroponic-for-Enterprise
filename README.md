@@ -39,7 +39,7 @@ This creates a Python library that we can easily integrate into our projects.
 If everything went well, we can already read the temperature and humidity. The easiest way is to first use the demo files:
 ```
 cd examples
-sudo ./AdafruitDHT.py 11 4
+sudo ./AdafruitDHT.py 11 27
 ```
 
 The first parameter (11) indicates which sensor was used and the second, to which GPIO it is connected (not the pin number, but the GPIO number). This produces an output like the following:
