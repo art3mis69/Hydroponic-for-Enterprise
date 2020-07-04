@@ -16,7 +16,7 @@ As the sensors already carry (almost) everything,not many additional accessories
 
 ## Setup of Raspberry Pi Humidity Sensor ##
 
-![alt text](https://drive.google.com/file/d/1XcvpqvhxltznavpS6dWyNlMO2pJ9ysBt/view)
+![alt text](https://github.com/art3mis69/Hydroponic-for-Enterprise/blob/master/DHT11_GPI.png)
 
 The left pin of the sensor is connected to 3V3 of Pi (pin1), the second sensor pin is connected (GPIO4, pin7) and the right senior pin comes at GND (Pin6) from the Pi. The second pin from the right of the sensor remains free.Resistor,BreadBoard is not necessary.
 
@@ -60,7 +60,7 @@ while True:
 
 ##Output
 
-!![alt text](https://drive.google.com/file/d/1eznZ3zzHpfkWK5fXsC2fmARAdEvgyXey/view)
+!![alt text](https://github.com/art3mis69/Hydroponic-for-Enterprise/blob/master/DHT11sensor_output.png)
 
 
 
