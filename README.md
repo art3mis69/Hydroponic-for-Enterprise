@@ -9,18 +9,18 @@ With the Raspberry Pi and some sensors, it is easy to measure the temperature wi
 
 As the sensors already carry (almost) everything,not many additional accessories are required. I have used this:
 
-* DHT11 humidity sensor
+* DHT11 Humidity and Temperature sensor
 * Jumper wires
 * Ethernet Cable
 * USB Power Cable
 
-## Setup of Raspberry Pi Humidity Sensor ##
+## Setup of Raspberry Pi Humidity and Temperature Sensor ##
 
 ![alt text](https://github.com/art3mis69/Hydroponic-for-Enterprise/blob/master/DHT11_GPI.png)
 
 The left pin of the sensor is connected to 3V3 of Pi (pin1), the second sensor pin is connected (GPIO4, pin7) and the right senior pin comes at GND (Pin6) from the Pi. The second pin from the right of the sensor remains free.Resistor,BreadBoard is not necessary.
 
-## Raspberry Pi Humidity Software Installation and Testing ##
+## Raspberry Pi Humidity and Temperature Software Installation and Testing ##
 
 First of all, some packages have to be installed:
 ```
