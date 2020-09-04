@@ -1,4 +1,4 @@
-# Hydroponic-for-Enterprise
+# Smart-Hydroponic-for-Enterprise
 
 
 ## Raspberry Pi: Measure Humidity and Temperature with DHT11 ##
